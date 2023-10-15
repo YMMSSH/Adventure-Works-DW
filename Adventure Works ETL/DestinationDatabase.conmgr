@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LocalHost.EO_AdventureWorksDW2019"
+  DTS:DTSID="{B6AF86BF-F685-429B-8852-4D49B1D997C0}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=EO_AdventureWorksDW2019;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-Adventure Works ETL-{B6AF86BF-F685-429B-8852-4D49B1D997C0}LocalHost.EO_AdventureWorksDW2019;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
